@@ -1,0 +1,28 @@
+[
+  {
+    "question": "A block slides down a frictionless incline of angle θ. What is its acceleration?",
+    "options": ["g sin θ", "g cos θ", "g tan θ", "g"],
+    "answer": "g sin θ"
+  },
+  {
+    "question": "What is the molarity of 1 mole of glucose in 1 L solution?",
+    "options": ["1 M", "0.1 M", "10 M", "1 mM"],
+    "answer": "1 M"
+  },
+  {
+    "question": "If f(x) = x², what is f '(2)?",
+    "options": ["1", "2", "4", "0"],
+    "answer": "4"
+  },
+  {
+    "question": "In an NPN transistor, which terminal is lightly doped?",
+    "options": ["Emitter", "Base", "Collector", "All equal"],
+    "answer": "Base"
+  },
+  {
+    "question": "What is the derivative of sin x?",
+    "options": ["cos x", "-cos x", "sin x", "-sin x"],
+    "answer": "cos x"
+  }
+  // ... continue to 150 questions
+]
